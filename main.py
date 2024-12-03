@@ -1,5 +1,5 @@
 def my_superfunction():
-    print(10 ** 10)
+    print(10 ** 10 * 10)
 
 
 def main():
