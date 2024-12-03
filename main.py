@@ -10,6 +10,7 @@ def main():
     my_superfunction()
 """jhfgjhgjhk"""
 '''erfergijkerkjnher'''
+'''newbench'''
 
 if __name__ == '__main__':
     main()
